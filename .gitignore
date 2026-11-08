@@ -1,0 +1,11 @@
+# Power BI Project (.pbip) – pliki lokalne, nie do repozytorium
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Pliki tymczasowe Office
+~$*
+
+# System
+Thumbs.db
+desktop.ini
+.DS_Store
