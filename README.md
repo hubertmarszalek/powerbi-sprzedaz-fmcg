@@ -134,6 +134,6 @@ Power BI Desktop · DAX · Power Query (M) · SQL Server (T-SQL) · Excel · DAX
 
 ## Autor
 
-**[Hubert Marszłek]** · [LinkedIn](https://www.linkedin.com/in/hubert-marsza%C5%82ek/)
+**Hubert Marszłek** · [LinkedIn](https://www.linkedin.com/in/hubert-marsza%C5%82ek/)
 
 Projekt zrealizowany w ramach nauki analizy danych (Excel, SQL, Power BI, DAX).
